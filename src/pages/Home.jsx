@@ -14,7 +14,7 @@ const Home = () => {
         transition={{ duration: 0.6 }}
       >
         <h1 className="text-5xl font-extrabold mb-6 text-cyan-400 drop-shadow-lg">
-          Welcome to <span className="text-white">VisionCraft 3D</span>
+          Welcome to <span className="text-white">Vision 3D</span>
         </h1>
         <p className="text-lg text-gray-300 mb-8">
           Transform your 2D ideas into interactive 3D structures. Whether you're designing a home, hotel, hospital, or temple, our AI-powered platform turns your vision into a digital reality.
